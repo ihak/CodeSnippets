@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>centerx</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeExpression</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>NSLayoutConstraint(item: &lt;#view#&gt;, attribute: .centerX, relatedBy: .equal, toItem: &lt;#related view#&gt;, attribute: .centerX, multiplier: 1.0, constant: 0.0)</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>947497BC-ADA4-4B8D-AA5C-91CF4986FEAA</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>CenterX constraint snippet</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>CenterX Constraint</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
