@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>vertical-constraint</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeExpression</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>NSLayoutConstraint.constraints(withVisualFormat:"V:|[view]|", options: NSLayoutFormatOptions(rawValue: 0), metrics: nil, views: ["view": &lt;#view#&gt;])</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>1AB88F05-A4C1-42A9-88D4-9FCBA6A2AFE7</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Adds vertical constriant to the container.</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Vertical Constraint</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

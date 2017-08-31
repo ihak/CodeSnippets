@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>equal-width</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeExpression</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>NSLayoutConstraint(item: &lt;#T##AnyObject#&gt;, attribute: .width, relatedBy: .equal, toItem: &lt;#T##AnyObject?#&gt;, attribute: .width, multiplier: 1.0, constant: 0.0)</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>CA823481-0099-4247-A4B8-626E48C1EF3D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Adds equal width constraint between two view.</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Equal Width Constaint</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
