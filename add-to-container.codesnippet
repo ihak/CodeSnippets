@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>add-to-container</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeExpression</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>&lt;#view#&gt;.translatesAutoresizingMaskIntoConstraints = false
+        &lt;#super view#&gt;.addSubview(&lt;#T##view: UIView##UIView#&gt;)
+        &lt;#super view#&gt;.addConstraints(NSLayoutConstraint.constraints(withVisualFormat: "H:|[view]|", options: [], metrics: nil, views: ["view": &lt;#view#&gt;]))
+        &lt;#super view#&gt;.addConstraints(NSLayoutConstraint.constraints(withVisualFormat: "V:|[view]|", options: [], metrics: nil, views: ["view": &lt;#view#&gt;]))</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>658E739C-F8CB-4A63-B8C4-C734AA2DE85E</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Adds a view to the super view with constraitns</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Add view to container</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
