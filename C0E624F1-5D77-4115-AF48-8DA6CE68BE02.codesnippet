@@ -3,24 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>aspect-ratio-constraint</string>
+	<string>bottomanchor</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeExpression</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>&lt;#view#&gt;.addConstraint(NSLayoutConstraint.init(item: &lt;#view#&gt;, attribute: .width, relatedBy: .equal, toItem: &lt;#view#&gt;, attribute: .height, multiplier: &lt;#ratio#&gt;, constant: 0.0))</string>
+	<string>&lt;#view#&gt;.bottomAnchor.constraint(equalTo: &lt;#superview#&gt;.bottomAnchor).isActive = true</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>91D3EA01-AA4F-4B74-A49E-EC63F19BBD69</string>
+	<string>C0E624F1-5D77-4115-AF48-8DA6CE68BE02</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Adds aspect ratio constraint to the view.</string>
+	<string>Adds bottom anchor</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Aspect Ratio Constraint</string>
+	<string>Bottom Anchor</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
