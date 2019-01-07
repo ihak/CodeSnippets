@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@IBOutlet var &lt;#name#&gt;: &lt;#type#&gt;!</string>
+	<string>@IBOutlet weak var &lt;#name#&gt;: &lt;#type#&gt;!</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E1CFFF13-31CD-4E35-8934-ADA1771CD9AC</string>
 	<key>IDECodeSnippetLanguage</key>
