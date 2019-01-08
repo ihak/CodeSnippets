@@ -21,7 +21,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Adds a container view to a view.</string>
+	<string>Adds an empty container view to a view.</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Add container view</string>
 	<key>IDECodeSnippetUserSnippet</key>

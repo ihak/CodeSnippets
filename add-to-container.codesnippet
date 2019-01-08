@@ -18,9 +18,9 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Adds a view to the super view with constraitns</string>
+	<string>Adds a view to the super view with visual formatting constriants.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Add view to container</string>
+	<string>Add subview - visual format</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

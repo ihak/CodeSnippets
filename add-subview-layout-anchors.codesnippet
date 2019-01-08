@@ -20,9 +20,9 @@
 	<key>IDECodeSnippetPlatformFamily</key>
 	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Add top, bottom, leading and trailing anchors of a view.</string>
+	<string>Add top, bottom, leading and trailing anchors of a view to its superview.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Add via layout anchors</string>
+	<string>Add subview - layout anchors</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
